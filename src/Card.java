@@ -4,6 +4,7 @@ public class Card {
 
 	private int color;
 	private int value;
+	private String face;
 	
 	//color dictionary
 	//R == 0
@@ -59,4 +60,6 @@ public class Card {
 	}
 	
 	
+	
 }
+
